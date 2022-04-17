@@ -1,0 +1,128 @@
+body {
+   background-color: rgb(63, 63, 63);
+   margin: 0;
+
+}
+
+p3 {
+
+   opacity: 0;
+   pointer-events: none;
+   position: fixed;
+   top: 431;
+   left: 140;
+   background-color: rgba(19, 19, 19, 0.425);
+   display: inline-flex;
+   align-items: center;
+   justify-content: center;
+   font-size: 25px;
+   font-weight: 200;
+   height: 100px;
+   width: 450px;
+
+}
+
+p1 {
+   border: 1px solid rgb(206, 205, 205);
+   pointer-events: none;
+   color: rgba(118, 144, 145, 0.692);
+   position: fixed;
+   top: 20;
+   left: 580;
+   background-color: rgba(192, 176, 176, 0.048);
+   display: inline-flex;
+   align-items: center;
+   justify-content: center;
+   font-size: 40px;
+   font-weight: 200;
+   height: 70px;
+   width: 300px;
+   margin: 0;
+}
+
+p12 {
+   pointer-events: none;
+   color: rgba(118, 144, 145, 0.692);
+   position: fixed;
+   top: 610;
+   left: 20;
+   background-color: rgba(192, 176, 176, 0.048);
+   display: inline-flex;
+   align-items: center;
+   justify-content: center;
+   font-size: 45px;
+   font-weight: 200;
+   height: 90px;
+   width: 225px;
+   margin: 0;
+}
+
+p22 {
+   pointer-events: none;
+   color: rgba(118, 144, 145, 0.692);
+   position: fixed;
+   top: 600;
+   left: 400;
+   background-color: rgba(192, 176, 176, 0.048);
+   display: inline-flex;
+   align-items: center;
+   justify-content: center;
+   font-size: 45px;
+   font-weight: 200;
+   height: 100px;
+   width: 225px;
+   margin: 0;
+}
+
+p2 {
+   border: 1px solid rgb(206, 205, 205);
+   pointer-events: none;
+   color: rgba(118, 144, 145, 0.692);
+   position: fixed;
+   top: 20;
+   left: 900;
+   background-color: rgba(192, 176, 176, 0);
+   display: inline-flex;
+   align-items: center;
+   justify-content: center;
+   font-size: 45px;
+   font-weight: 200;
+   height: 70px;
+   width: 225px;
+   margin: 0;
+}
+
+p4 {
+   pointer-events: none;
+   color: rgba(95, 141, 118, 0.692);
+   position: fixed;
+   top: 920;
+   left: 600;
+   background-color: rgba(94, 112, 112, 0.021);
+   display: inline-flex;
+   align-items: center;
+   justify-content: center;
+   font-size: 25px;
+   font-weight: 100;
+   height: 10px;
+   width: 500px;
+   margin: 0;
+}
+
+p5 {
+   pointer-events: none;
+   color: rgba(118, 144, 145, 0.692);
+   ;
+   position: fixed;
+   top: 700;
+   left: 20;
+   background-color: rgba(192, 176, 176, 0.048);
+   display: inline-flex;
+   align-items: center;
+   justify-content: center;
+   font-size: 45px;
+   font-weight: 200;
+   height: 120px;
+   width: 255px;
+   margin: 0;
+}
